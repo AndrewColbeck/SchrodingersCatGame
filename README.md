@@ -13,8 +13,12 @@ Shrodinger's Experiment famously poses the hypothetical scenario of a cat being 
 Help Halfpaw the cat collect enough electrons to stabilise the radioactive particle before he is observed by the security camera!
 
 
-<br><br>Developed by Andrew Colbeck & Adam Lind © 2019
-
+<br><br>Developed by Andrew Colbeck & Adam Lind © 2019<br>
+follow: 
+[<img src="https://gdurl.com/vYH5">](https://github.com/AndrewColbeck)
+[<img src="https://gdurl.com/xpGoe">](https://www.facebook.com/andrewtcolbeck)
+[<img src="https://gdurl.com/FGea">](https://www.youtube.com/channel/UCG9CXPHtEN6zEz-KmLGFT2A)
+[<img src="https://gdurl.com/f8fuk">](https://www.linkedin.com/in/andrewcolbeck)
 
 
 
